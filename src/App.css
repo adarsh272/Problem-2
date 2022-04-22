@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.tables{
+  width: min(300px, 90%);
+  margin: auto;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
